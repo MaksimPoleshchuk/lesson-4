@@ -595,10 +595,13 @@
 	background: url("../font/testimonial.png");
 	width: 273px;
 	height: 147px;
-	font-size: 14px;
 	text-align: left;
-	font-style: italic;
 	padding: 19px 13px 0 12px;
+  }
+
+  h5 {
+	font-style: italic;
+	font-size: 14px;
   }
   .speech__naming {
 	display: inline-block;
@@ -825,4 +828,3 @@
 	opacity: 0.5019607843137255;
 	color: rgb(255, 255, 255);
   }
-  
